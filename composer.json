@@ -1,6 +1,6 @@
 {
     "name": "quetzalarc/admin-tag",
-    "description": "This is crud tag for admin",
+    "description": "This simple crud tag for admin with UIkit for Laravel.",
     "license": "MIT",
     "authors": [
         {
